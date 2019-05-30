@@ -10,7 +10,7 @@
 
 ## 사용한 공공데이터 
 
-[데이터보기](http://airemiss.nier.go.kr/mbshome/mbs/airemiss/index.do)
+[데이터보기](https://github.com/kdjdj77/p_2019/blob/master/pyscripter/pm10_20142018a.txt)
 
 
 ## 소스
